@@ -1,0 +1,23 @@
+{
+	"author": {
+		"name": "Ryan Fong",
+		"email": "rfong3488@gmail.com"
+	},
+	"name": "gldv",
+	"bin": "dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"prepublishOnly": "tsc"
+	},
+	"dependencies": {
+		"@types/node": "^20.12.5",
+		"chokidar": "^3.6.0",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.4.4"
+	},
+	"files": [
+		"dist",
+		"README.md",
+		"LICENSE"
+	]
+}
