@@ -4,7 +4,11 @@ This is a CLI tool for use with Gleam. It's main purpose is to allow hot reloadi
 
 ## Installation
 
-@TODO
+Use your favorite package manager to install it. This example uses npm.
+
+```sh
+npm i gldv
+```
 
 ## Usage
 
