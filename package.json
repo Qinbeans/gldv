@@ -5,6 +5,7 @@
 	},
 	"name": "gldv",
 	"bin": "dist/index.js",
+	"version": "0.0.1",
 	"scripts": {
 		"build": "tsc",
 		"prepublishOnly": "tsc"
