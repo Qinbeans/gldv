@@ -13,12 +13,14 @@
 	"dependencies": {
 		"@types/node": "^20.12.5",
 		"chokidar": "^3.6.0",
-		"ts-node": "^10.9.2",
 		"typescript": "^5.4.4"
 	},
 	"files": [
 		"dist",
 		"README.md",
 		"LICENSE"
+	],
+	"keywords": [
+		"cli"
 	]
 }
